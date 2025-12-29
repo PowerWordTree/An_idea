@@ -6,6 +6,8 @@ _Future-Oriented System Macro‑ISA Architecture Proposal_
 版本：v1.0
 日期：2025
 
+copilot辅助生成
+
 ---
 
 ## 0. 前言
@@ -1042,3 +1044,4 @@ System Macro‑ISA 不是对现有系统的改良，而是对未来计算的重�
 **未来的计算机不再由 CPU 指令集定义，而由系统级指令语义定义。**
 
 ---
+
