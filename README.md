@@ -6,7 +6,6 @@ _Future-Oriented System Macro‑ISA Architecture Proposal_
 版本：v1.0
 日期：2025
 
-copilot辅助生成
 
 ---
 
@@ -1045,3 +1044,4 @@ System Macro‑ISA 不是对现有系统的改良，而是对未来计算的重�
 
 ---
 
+copilot辅助生成
