@@ -1,0 +1,224 @@
+
+# **Building Digital Native Intelligence from Scratch: An Experimental Blueprint Based on Evolving Simulated Neurons**
+
+I have been thinking about a question recently:  
+**If we do not begin with large models, training data, or predefined architectures, but instead start from “zero” and allow a population of simulated neurons to evolve spontaneously within a closed environment, could some form of primitive intelligence eventually emerge?**
+
+This is not code-based life, not self-modifying software, and not a dangerous digital organism.  
+It is a **controlled, closed, and accelerable digital evolution experiment**.
+
+Below is a directional blueprint I have organized. Discussion, critique, and extensions are welcome.
+
+---
+
+# **1. Why Build Intelligence from Zero?**
+
+Despite their impressive capabilities, current AI systems exhibit several fundamental limitations:
+
+- Lack of persistent internal state  
+- Lack of behavioral consistency  
+- Lack of homeostatic mechanisms  
+- Lack of intrinsic “style”  
+- Lack of evolutionary history  
+
+They behave more like **tools** than **entities**.
+
+In contrast, even the simplest biological organisms—such as worms—possess:
+
+- Internal state  
+- Homeostasis  
+- Behavioral tendencies  
+- Structural evolution  
+- Environmental adaptation  
+
+This leads to a natural question:
+
+> **Can we simulate evolution in the digital domain and allow intelligent structures to emerge naturally rather than being manually designed?**
+
+---
+
+# **2. Core Idea: A Digital Neuron Ecosystem Under Evolutionary Pressure**
+
+The goal is not to train a model, but to:
+
+> **Construct a population of minimally functional simulated neurons that can spontaneously connect, organize, replicate, and be eliminated within a closed environment, eventually evolving into intelligent structures.**
+
+These “neurons” are neither biological neurons nor deep learning nodes. They are abstract computational units that:
+
+- Maintain simple internal state  
+- Receive and emit signals  
+- Form and break connections  
+- Replicate or die under defined rules  
+
+Intelligence is not engineered; it is:
+
+- **Structurally emergent**  
+- **Behaviorally accumulated**  
+- **A product of long-term evolution**  
+
+This is essentially a **digital evolutionary experiment**.
+
+---
+
+# **3. Experimental Environment: Closed, Controllable, Accelerable**
+
+The system is inherently closed:
+
+- No interaction with the external world  
+- No access to external resources  
+- No code-level self-modification  
+- Fully pausable, resettable, and replayable  
+- Evolutionary time can be accelerated through compute  
+
+This enables something nature cannot provide:
+
+> **Observing thousands or even millions of generations within real-world time.**
+
+---
+
+# **4. Evolutionary Dynamics: From Chaos to Structure, from Loops to Intelligence**
+
+Early stages will likely be chaotic:
+
+- Random neural connections  
+- Meaningless behavior  
+- Frequent structural collapse  
+- Or stagnation in simple loops  
+
+These are not failures—they are the starting point of evolution.
+
+When the system stagnates, we can introduce:
+
+- Additional stimuli  
+- Increased environmental complexity  
+- Resource competition  
+- Extended time horizons  
+- New feedback dimensions  
+
+to break cycles and push evolution forward.
+
+Over time, we may observe:
+
+- Subnetwork replication  
+- Stabilization of local structures  
+- Longer behavioral sequences  
+- Emergence of simple preferences  
+- Improved recovery after perturbations  
+
+When these phenomena persist, we can consider the system to have reached:
+
+> **The early form of “worm-level intelligence.”**
+
+---
+
+# **5. Failure Modes and Elimination Mechanisms: An Open Design Space**
+
+Evolution may fail in many ways:
+
+- Structural degradation  
+- Overactivation  
+- Structural freezing  
+- Excessive complexity  
+- Environmental mismatch  
+
+Elimination mechanisms should not be fixed in advance; they form part of the experimenter’s design space. Examples include:
+
+- Energy depletion  
+- Ineffective behavior  
+- Structural instability  
+- Lower fitness relative to competitors  
+
+Different elimination rules may lead to different forms of intelligence.
+
+---
+
+# **6. Levels of Intelligence: Starting with Worm-Level and Expanding Gradually**
+
+This blueprint is not about “building AGI in one step.”  
+It is a staged exploration.
+
+### **Stage 1: Worm-Level Intelligence (Core Goal)**
+
+- Simple preferences  
+- Homeostasis  
+- Behavioral consistency  
+- Recovery from perturbations  
+- Basic strategies  
+
+### **Stage 2: Small-Animal Intelligence (Optional Extension)**
+
+- Long-term memory  
+- Multi-objective behavior  
+- Simple planning  
+- Context switching  
+
+### **Stage 3: Higher Intelligence (Long-Term Exploration)**
+
+- World modeling  
+- Causal reasoning  
+- Internal simulation  
+
+Whether the system can reach mammalian-level intelligence is **unknown and unnecessary to promise**.
+
+---
+
+# **7. Value Along the Way: Extracting “Intelligent Structures” at Every Stage**
+
+Even if the system never surpasses worm-level intelligence, we can extract:
+
+- Homeostatic control structures  
+- Behavioral consistency modules  
+- Preference modeling structures  
+- Simple planning mechanisms  
+- Environmental adaptation structures  
+
+These can be applied to:
+
+- Smart home systems  
+- Small robots  
+- Environmental management  
+- Long-term consistent AI  
+- Automation systems  
+
+This path is not a gamble on AGI. It is:
+
+> **A route that continuously produces usable intelligent building blocks.**
+
+---
+
+# **8. Not a Procedure, but an Open Blueprint**
+
+To avoid constraining creativity, this blueprint intentionally avoids specifying:
+
+- Concrete algorithms  
+- Specific parameters  
+- Exact environments  
+- Training procedures  
+
+Instead, it provides:
+
+- **Direction**  
+- **Framework**  
+- **Key concepts**  
+- **Design dimensions**  
+- **Possible pathways**  
+
+Researchers can design their own experiments based on this blueprint.
+
+---
+
+# **9. Conclusion: Discussion and Exploration Welcome**
+
+The purpose of this proposal is not to provide definitive answers, but to:
+
+- Offer a new research direction  
+- Provide a controllable framework for evolving intelligence  
+- Establish a path that yields value at every stage  
+- Create an open starting point for exploration  
+
+If this blueprint inspires experiments, papers, open-source projects, or educational tools, all the better.
+
+---
+
+This article was partially developed with the support of AI-assisted writing tools.
+
